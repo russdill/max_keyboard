@@ -19,9 +19,11 @@ to half height so that they don't appear bright on top and dark on bottom.
 It's probably desirable to adjust positioning and size for a non-backlit
 keyboard.
 
-This design is also a DVORK design, the key positions are switched around and
+This design is also a DVORAK design, the key positions are switched around and
 extra QWERTY markers are placed in the corners of each key. It shouldn't be
-too difficult to switch things back.
+too difficult to switch things back. It's also for a keyboard with a "6.5"
+length spacebar. If you space bar is a different length, you'll probably need
+to download a different template and copy the design layer over to it.
 
 There are of course several more keys where Disney/Pixar designs can be placed,
 such as the function keys and the keys above the arrow keys (scroll lock, home,
